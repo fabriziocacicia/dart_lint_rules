@@ -1,0 +1,5 @@
+include: package:dart_lint_rules/core.yaml
+
+analyzer:
+  errors:
+    public_member_api_docs: warning
