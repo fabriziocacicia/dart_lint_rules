@@ -1,0 +1,1 @@
+A set of custom Dart lint rules to be used in Dart librearies.
