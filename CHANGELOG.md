@@ -1,5 +1,6 @@
 ## Unreleased
 
+- Fix the public_member_api_docs rule not being applied
 
 ## 0.0.1
 
