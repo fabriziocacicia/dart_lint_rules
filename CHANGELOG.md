@@ -1,4 +1,4 @@
-## Unreleased
+## 0.1.0
 
 - Updated `lints` dependency to version 2.0.1
 
