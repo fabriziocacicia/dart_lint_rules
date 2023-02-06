@@ -6,6 +6,5 @@ environment:
   sdk: '>=2.19.0-444.4.beta <3.0.0'
 
 dev_dependencies:
-  meta: 1.9.0
   dart_lint_rules:
     path: ../
