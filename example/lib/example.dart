@@ -4,6 +4,7 @@ dynamic implicitReturn(String string) {}
 String explicitReturn(String string) {
   return string;
 }
+
 void foo(String string) {}
 
 void bar(String string) {
