@@ -1,5 +1,3 @@
-import 'package:meta/meta.dart';
-
 // Strict cast
 dynamic implicitReturn(String string) {}
 
