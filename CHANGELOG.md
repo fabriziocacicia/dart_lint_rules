@@ -1,3 +1,7 @@
+## 0.2.0
+
+- Updated stricter type checks options to the new format
+
 ## 0.1.0
 
 - Updated `lints` dependency to version 2.0.1
