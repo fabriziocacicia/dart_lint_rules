@@ -1,6 +1,6 @@
 name: dart_lint_rules
 description: Custom Dart lint rules to be used in Dart libraries.
-version: 0.1.0
+version: 0.2.0
 publish_to: none
 
 environment:
